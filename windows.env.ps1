@@ -1,0 +1,5 @@
+$Env:<POSTGRES_SERVER> = "postgres"
+$Env:<POSTGRES_USER> = "kwkiivid"
+$Env:<POSTGRES_PASSWORD> = "JHIegR7vSRal9gSYTvqbLUIwvxgz05Ah"
+$Env:<POSTGRES_DB> = "kwkiivid"
+$Env:<POSTGRES_PORT> = "5432"
